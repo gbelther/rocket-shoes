@@ -15,10 +15,17 @@ Nessa aplicação, foi utilizado as seguintes tecnologias:
 
 <h3>Iniciando o Projeto</h3>
 
-Clonar o repositório com o <strong>git clone git@github.com:gbelther/rocket-shoes.git</strong>;
-Instalar as dependências com <strong>yarn</strong>;
-Iniciar o servidor da API com <strong>yarn server</strong>
-Iniciar o APP com <strong>yarn start</strong>
+> git clone git@github.com:gbelther/rocket-shoes.git
+
+> cd rocket-shoes
+
+> yarn
+
+> yarn server
+
+> yarn start
+
+<h3>IMAGENS DO PROJETO</h3>
 
 ![Screenshot_1](https://user-images.githubusercontent.com/68357487/111675174-9ae25f80-87fb-11eb-85e8-a4401f6479f0.png)
 
